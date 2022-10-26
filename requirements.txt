@@ -1,0 +1,4 @@
+python-dotenv~=0.19.0
+yandex-music~=1.0.0
+youtube-dl~=2021.6.6
+youtube-search-python~=1.4.6
